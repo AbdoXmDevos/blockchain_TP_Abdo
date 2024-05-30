@@ -1,1 +1,2 @@
-<img src="assets/Screen Shot 2024-05-30 at 16.28.52.jpg"></img>
+<img src="src/image1.png"></img>
+<img src="src/image2.png"></img>
